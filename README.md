@@ -32,9 +32,10 @@ Ce repository GitHub me permet de présenter :
 - Mon plan de travail sur le VPN.
   
 **Mon projet VPN**
-Je n’ai encore jamais mis en place de VPN complet, mais voici mon plan d’apprentissage
+Je ne jamais mis en place de VPN complet, mais voici mon plan d’apprentissage
 
 1. **Installation d’OpenVPN** sur un environnement Linux Debian virtualisé.
 2. 
 3. **Génération des clés et certificats** avec l’outil easy-rsa...
 4. 
+5. 
