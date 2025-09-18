@@ -3,7 +3,7 @@ Note et configuration vpn, test pour La Plateforme
 # Projet VPN – La Plateforme (Bachelor 3 Cybersécurité & Systèmes/Réseaux)
 
 **Présentation et Parcours**.
-- Je m’appelle Nelly ANENE. Je suis actuellement en reconversion professionnelle vers les métiers du numérique et (de la Cybersécurité & Réseaux).  
+- Je m’appelle Nelly ANENE. Je suis actuellement en reconversion professionnelle vers les métiers du numérique (de la Cybersécurité & Réseaux).  
 - J’ai une expérience passée dans les cybercafés (assistance informatique de base) où j'assistées des clients dans leur besoins informatique de bses.
 - J'ai aussi eu des parcours dans le secteur social, et assistance de vie. En 2023 j’ai suivi un leger cours d'initiation numerique Linux.
 
